@@ -47,9 +47,7 @@ Optional (but auto-filled if missing):
 - `landslide_type`
 - `location`
 - `fatalities`, `injuries`, `economic_loss`
-
 ---
-
 ## 🚀 How to Run
 
 1. Clone the repository:
