@@ -32,9 +32,7 @@ This project performs a detailed exploratory data analysis (EDA) on a landslide 
 - seaborn
 - matplotlib
 - numpy
-
 ---
-
 ## 🗂 Dataset
 
 The dataset used is expected to be a CSV file with a minimum column named:
